@@ -1,6 +1,6 @@
 # Google-CodeJam-2020
 
-This repo consist of problems on Google code Jam 2020
+The solutions for Google code Jam 2020 in cpp.
 
 # Qualifying Round
 ## 1.Vestigium 
